@@ -1,5 +1,5 @@
 # CS255
-# Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 The DriverPass project focused on creating a web based system that provides driving information and testing. The client was DriverPass and they wanted a system designed that provides reading material, learning modules, and the ability to schedule road test. This system infrastructure was to be supported by third party to limit the amount of strain on the company itself. 
 #What did you do particularly well?
 I believe I did a good job of articulating the needs of DriverPass based on a limited transcript that was provided. A lot was left to research and use past knowledge to be able to put together a solid design. 
